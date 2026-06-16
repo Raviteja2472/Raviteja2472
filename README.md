@@ -6,8 +6,6 @@
 
 📍 India
 
-\
-
 ---
 
 ## 🚀 About Me
