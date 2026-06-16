@@ -1,12 +1,18 @@
+<div align="center">
+
 # 👋 Hi, I'm Raviteja
 
-### Senior Software Engineer | QA Automation Engineer | SDET | 8+ Years of Experience | Selenium | Cypress | CI/CD | Harness | Jenkins
+### Senior Software Engineer | QA Automation Engineer | SDET
 
-💡 Passionate about building scalable, reliable, and maintainable test automation solutions for enterprise applications.
+### 🚀 8+ Years of Experience in Test Automation
 
-📍 India
+💡 Building scalable automation solutions for Web, API, Database and Legacy Applications
 
----
+🌍 India
+
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=1000&lines=Senior+Software+Engineer;QA+Automation+Engineer;SDET+%7C+8%2B+Years+Experience;Selenium+%7C+Cypress+%7C+API+Testing;Azure+%7C+AWS+%7C+Harness+%7C+Jenkins)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 
@@ -32,40 +38,19 @@ Hands-on experience with Selenium, Cypress, Java, Python, JavaScript, Ruby, clou
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Test Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-* Selenium
-* Cypress
-
-### Programming Languages
-
-* Java
-* Python
-* JavaScript
-* Ruby
-
-### API & Database
-
-* Postman
-* SQL
-
-### Cloud Platforms
-
-* Microsoft Azure
-* AWS
-
-### DevOps & Tools
-
-* Git
-* GitHub
-* Jenkins
-* Harness
-* Maven
-* TestNG
-
----
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Harness](https://img.shields.io/badge/Harness-00C4CC?style=for-the-badge&logo=harness&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)---
 
 ## 📂 Featured Repositories
 
@@ -107,24 +92,38 @@ Hands-on experience with Selenium, Cypress, Java, Python, JavaScript, Ruby, clou
 
 ## 📊 GitHub Stats
 
-> Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raviteja2472&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Raviteja2472)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raviteja2472&layout=compact)
 
 ---
 
-## 🌱 Currently Exploring
+## 🎯 What I Do
 
-* AI-powered Test Automation
-* Playwright
-* Advanced CI/CD practices
-* Cloud-native testing strategies
+✔️ Automate the work flows to reduce manual efforts
+
+✔️ Web Automation Testing
+
+✔️ API Testing
+
+✔️ Database Testing
+
+✔️ CI/CD Integration
+
+✔️ Cloud-based Testing
+
+✔️ Automation Framework Development
+
+✔️ Release Pipeline Validation
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_PROFILE
-* 🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+Watsup : 8618628087
 
 ---
 
-### ⭐ Building reliable, scalable, and efficient automation solutions that improve software quality.
+### ⭐ Building reliable, scalable, and efficient automation solutions that reduce Manual effort and improve software quality
