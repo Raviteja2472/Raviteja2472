@@ -3,14 +3,10 @@
 </p>
 <div align="center">
 
-# 👋 Hi, I'm Raviteja
-
-### Senior Software Engineer | QA Automation Engineer | SDET
-
 ### 🚀 8+ Years of Experience in Test Automation
 
-💡 Building scalable automation solutions for Web, API, Database and Legacy Applications
-
+**💡 Building scalable automation solutions for Web, API, Database and Legacy Applications
+**
 🌍 India
 
 </div>
