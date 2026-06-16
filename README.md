@@ -15,11 +15,13 @@
 
 ## 🚀 About Me
 
-Experienced QA Automation Engineer with 8+ years of expertise in designing, developing, and maintaining automation frameworks for Web Applications, APIs, and Database Testing.
+I build scalable automation workflows that transform repetitive manual processes into efficient, reliable, and maintainable quality systems.
 
-Strong experience in building end-to-end automation solutions, integrating CI/CD pipelines using Harness and Jenkins, and working in Agile environments to deliver high-quality software.
+With 8+ years of experience in Quality Engineering and Test Automation, I design end-to-end solutions for Web Applications, APIs, and Databases while integrating quality throughout the software delivery lifecycle.
 
-Hands-on experience with Selenium, Cypress, Java, Python, JavaScript, Ruby, cloud platforms (Azure & AWS), and DevOps practices to enable faster and reliable software delivery.
+My approach goes beyond writing automated tests—it's about building reusable frameworks, enabling continuous testing, and creating automation ecosystems that help teams deliver software faster, safer, and with confidence.
+
+I leverage modern automation tools, CI/CD practices, and cloud technologies to engineer solutions that scale with products and evolving business needs
 
 ---
 
