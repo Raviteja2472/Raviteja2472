@@ -5,7 +5,7 @@
 
 ### 🚀 8+ Years of Experience in Test Automation
 
-** 💡 Building scalable automation solutions for Web, API, Database and Legacy Applications **
+# 💡 Building scalable automation solutions for Web, API, Database and Legacy Applications 
 
 🌍 India
 
