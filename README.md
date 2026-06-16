@@ -1,3 +1,6 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Raviteja&fontSize=55&fontAlignY=40&desc=Senior%20Software%20Engineer%20|%20QA%20Automation%20Engineer%20|%20SDET&descAlignY=65"/>
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Raviteja
