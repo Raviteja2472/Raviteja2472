@@ -52,7 +52,7 @@ Hands-on experience with Selenium, Cypress, Java, Python, JavaScript, Ruby, clou
 ![Harness](https://img.shields.io/badge/Harness-00C4CC?style=for-the-badge&logo=harness&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)---
 
-## 📂 Featured Repositories
+## 📂 Areas of Expertise
 
 ### 🚀 Selenium Java Automation Framework
 
